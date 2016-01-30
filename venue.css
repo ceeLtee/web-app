@@ -1,0 +1,79 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+body,footer{
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 40px;
+}
+.date h1{
+    display: inline-flex;
+    font-size: 20px;
+    margin: 60px 0px  30px 150px;
+    
+    color: #64857a;
+}
+.firsth1{
+    margin: 40px 30px 40px 150px;
+    font-size: 59px;
+    line-height: 1;
+   display: inline-flex;
+}
+header{
+    display: inline-flex;
+}
+.nav1 a{
+    margin-right: 0px;
+    margin-left: 10px;
+    padding-left: 10px;
+    width: 100%;
+    font-size: 13px;
+}
+.row,.ali{
+    min-width: 960px;
+}
+.row {
+  background: #fff;
+  padding: 66px 0 44px 0;
+}
+.ali{
+   background: #cbe2c1;
+   background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
+   background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
+   background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+   padding: 44px 0 22px 0;
+ }
+.section1{
+    text-align: center;
+}
+.section1 p{
+    font-size: 21px;
+  line-height: 33px;
+    margin-left: 20 px;
+}
+.venuediv{
+    margin-left: 50px;
+}
+.venue{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: inline-flex;
+    background-color: white;
+    width: 100%;
+}
+.map-google{
+   float: right;
+    margin-left:100px;
+}
+iframe{
+    height: 350px;
+    width: 700px;
+}
+.foot{
+    display: inline-block;
+     margin-right: px;
+    margin-left: 700px;
+   
+    width: 100%;
+    font-size: 12px;
+}
